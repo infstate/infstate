@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Infinite State</h1>
+<h1 align="center">Hi 👋, I'm Infstate</h1>
 <h3 align="center">I work on Open Source projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infstate&label=Profile%20views&color=0e75b6&style=flat" alt="infstate" /> </p>
