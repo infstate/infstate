@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">This is my GitHub homepage for Infinite Tech.</p>
+<p align="left">This is my GitHub homepage for Infinite Tech.<br><br>🕋 My focus is on Islamic software and tools. <br>[</>] I also like contributing to open source by developing useful apps.</p>
 
 ###
 
@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
