@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 This is my GitHub homepage for Infinite Tech.<br><br>🕋 My focus is on Islamic software and tools. <br>🌴 I also enjoy contributing to open source by developing useful apps.</p>
+<p align="left">🚀 This is my GitHub homepage for Infinite Tech, my YouTube channel.<br><br>🕋 My focus is on Islamic software and tools. <br>🌴 I also enjoy contributing to open source by developing useful apps.</p>
 
 ###
 
