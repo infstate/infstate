@@ -42,3 +42,6 @@
 <img src="https://raw.githubusercontent.com/infstate/infstate/output/snake.svg" alt="Snake animation" />
 
 ###
+
+> _**[And he said], "My Lord! Grant me wisdom, and join me with the righteous**_
+> - Qu'ran 26:84 (Ash-Shu'ara)
